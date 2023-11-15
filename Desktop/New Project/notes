@@ -1,0 +1,4 @@
+Three command to run
+git add .
+git commit -m "ISme message rahega "
+git push
